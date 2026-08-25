@@ -10,7 +10,7 @@ h1{
 .taskholder{
     display: flex;
     justify-content: center;
-    
+    padding:10px;
 }
 .taskholder input {
     width: 250px;
